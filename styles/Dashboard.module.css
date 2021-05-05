@@ -1,0 +1,10 @@
+.dashboard h1 span {
+  font-style: 20px;
+  color: #777;
+  margin-left: 10px;
+}
+
+.dashboard h3 {
+  font-style: 25px;
+  color: red;
+}
